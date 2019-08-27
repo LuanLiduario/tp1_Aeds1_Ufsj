@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1544062464 source:c:\users\joaom\onedrive\Área de trabalho\aeds 1\programas\tp\tp.c
+	"tp.h"
+
+1544038154 c:\users\joaom\onedrive\Área de trabalho\aeds 1\programas\tp\tp.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1544062142 source:c:\users\joaom\onedrive\Área de trabalho\aeds 1\programas\tp\tpmain.c
+	"tp.h"
+
